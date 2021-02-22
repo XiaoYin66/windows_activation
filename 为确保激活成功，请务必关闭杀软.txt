@@ -1,0 +1,9 @@
+由于激活工具的特殊性，在双击执行软件前
+
+请务必退出360、腾讯管家及win10防护等杀毒软件，
+
+以免杀软误报误杀导致软件下载失败。
+
+
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

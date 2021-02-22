@@ -1,0 +1,19 @@
+slmgr /skms kms.xspace.in
+
+slmgr /ato
+
+slmgr.vbs -xpr
+
+
+·þÎñÆ÷µØÖ·£º
+kms.03k.org
+kms.chinancce.com
+kms.lotro.cc
+cy2617.jios.org
+kms.shuax.com
+kms.luody.info
+kms.cangshui.net
+zh.us.to
+kms.library.hk
+xykz.f3322.org
+
